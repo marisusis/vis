@@ -1,0 +1,23 @@
+{
+  "name": "vis",
+  "version": "0.0.0",
+  "description": "A music visualizer app written in JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacegeek224/vis.git"
+  },
+  "keywords": [
+    "vis",
+    "visualizer"
+  ],
+  "author": "Maris Usis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spacegeek224/vis/issues"
+  },
+  "homepage": "https://github.com/spacegeek224/vis#readme"
+}
