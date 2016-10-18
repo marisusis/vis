@@ -19,7 +19,8 @@ app.on('ready', function() {
 	//Create main browser window
 	mainWindow = new BrowserWindow({
 		width: 800,
-		height: 600
+		height: 600,
+		icon: `${__dirname}/icon.png`
 	});
 	//Load the main HTML file
 	mainWindow.loadURL(`file://${__dirname}/app/index.html`)
